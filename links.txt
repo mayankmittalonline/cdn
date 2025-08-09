@@ -1,0 +1,9 @@
+# This is my link database
+/instagram https://instagram.com/yourusername https://play.google.com/store/apps/details?id=com.instagram.android https://apps.apple.com/app/instagram/id389801252
+/youtube https://youtube.com/channel/YOUR_CHANNEL_ID https://play.google.com/store/apps/details?id=com.google.android.youtube https://apps.apple.com/app/youtube-watch-listen-stream/id544007664
+
+# WhatsApp example
+/whatsapp https://wa.me/911234567890 https://play.google.com/store/apps/details?id=com.whatsapp https://apps.apple.com/app/whatsapp-messenger/id310633997
+
+# Default if nothing matches
+/default https://example.com https://example.com https://example.com

@@ -1,0 +1,3 @@
+"#comment","/123","https://destination.example/page1","https://play.google.com/store/apps/details?id=app1","https://apps.apple.com/app/id11111"
+"#comment2","abc-999","https://destination.example/page2","","https://apps.apple.com/app/id22222"
+"#noapps","onlyID","https://destination.example/default","",""

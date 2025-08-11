@@ -1,0 +1,14 @@
+[
+  {
+    "id": "instagram",
+    "destination": "https://instagram.com/msm",
+    "android": "instagram://user?username=msm",
+    "ios": "instagram://user?username=msm"
+  },
+  {
+    "id": "youtube",
+    "destination": "https://youtube.com/@msm",
+    "android": "youtube://www.youtube.com/@msm",
+    "ios": "youtube://www.youtube.com/@msm"
+  }
+]

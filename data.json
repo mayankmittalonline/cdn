@@ -1,9 +1,4 @@
 {
-  "iam": {
-    "web": "https://www.instagram.com/mayanksmittal",
-    "android": "intent://user?username=mayanksmittal#Intent;scheme=instagram;package=com.instagram.android;end",
-    "ios": "instagram://user?username=mayanksmittal"
-  },
   "youtube": {
     "web": "https://www.youtube.com/@mayanksmittal",
     "android": "intent://channel/UCHBO5djqrY6iRO03tKSqmJA#Intent;scheme=vnd.youtube;package=com.google.android.youtube;end",
@@ -18,5 +13,10 @@
     "web": "https://x.co",
     "android": "",
     "ios": ""
+  },
+  "iamjsdkfjlskf": {
+    "web": "https://www.instagram.com/mayanksmittal",
+    "android": "intent://user?username=mayanksmittal#Intent;scheme=instagram;package=com.instagram.android;end",
+    "ios": "instagram://user?username=mayanksmittal"
   }
 }

@@ -1,5 +1,5 @@
 {
-  "instagram": {
+  "iam": {
     "web": "https://www.instagram.com/mayanksmittal",
     "android": "intent://user?username=mayanksmittal#Intent;scheme=instagram;package=com.instagram.android;end",
     "ios": "instagram://user?username=mayanksmittal"
@@ -9,12 +9,12 @@
     "android": "intent://channel/UCHBO5djqrY6iRO03tKSqmJA#Intent;scheme=vnd.youtube;package=com.google.android.youtube;end",
     "ios": "youtube://channel/UCHBO5djqrY6iRO03tKSqmJA"
   },
-  "twitter": {
+  "twir": {
     "web": "https://twitter.com/mayanksmittal",
     "android": "intent://user?screen_name=mayanksmittal#Intent;scheme=twitter;package=com.twitter.android;end",
     "ios": "twitter://user?screen_name=mayanksmittal"
   },
-  "x": {
+  "xo": {
     "web": "https://x.co",
     "android": "",
     "ios": ""
